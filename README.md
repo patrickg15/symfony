@@ -1,4 +1,5 @@
 # symfony
 Projet de formation sur Symfony
-Ce projet pour l'instant se passe très bien
-Je vais le commiter très bientôt 
+Ce projet pour l'instant se passe trÃ¨s bien
+Je vais le commiter trÃ¨s bientÃ´t 
+Informations ajoutÃ©es depuis github
